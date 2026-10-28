@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="果叽飞飞" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="guoji.FlappyGuoJiApp" />
+    <module name="FlappyGuoJi" />
+    <!-- 不加这个，控制台的中文启动报告会乱码 -->
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+    <!-- 必须是工程根目录，assets/我也要.gif 是按相对路径找的 -->
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

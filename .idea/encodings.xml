@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <!-- 源码里有中文（「果叽飞飞」等），必须让 IDEA 按 UTF-8 编译，
+       否则会和 javac 默认的平台编码(GBK)打架。 -->
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

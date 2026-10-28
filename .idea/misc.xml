@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true"
+             project-jdk-name="21" project-jdk-type="JavaSDK">
+    <!-- 编译产物单独放 out/idea，避免和 build.bat 用的 out/ 互相覆盖 -->
+    <output url="file://$PROJECT_DIR$/out/idea" />
+  </component>
+</project>
